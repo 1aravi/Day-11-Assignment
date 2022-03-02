@@ -1,3 +1,4 @@
-console.log("Hello");
-console.log(2*3);
-console.log(1+2+3);
+function sayhello(){
+    console.log("Aravind");
+}
+sayhello();
